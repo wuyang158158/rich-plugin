@@ -1,0 +1,6 @@
+{
+  "publicComponents": {
+    "wxParser": "components/wxparser/wxParser"
+  },
+  "main": "index.js"
+}
